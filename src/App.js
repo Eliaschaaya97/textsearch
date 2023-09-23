@@ -21,19 +21,19 @@ function App() {
   const [searchText, setSearchText] = useState("");
   const [searchResults, setSearchResults] = useState([]);
 
-  const handleSearch = () => {
-    if (!searchText) {
-      setSearchResults([]);
-      return;
-    }
-  
-    const results = articles.filter((article) =>
-      article.content.toLowerCase().includes(searchText.toLowerCase())
-    );
-  
-    setSearchResults(results);
-  };
-  
+ const handleSearch = () => {
+  if (!searchText) {
+    setSearchResults([]);
+    return;
+  }
+
+  const results = articles.filter((article) =>
+    article.content.toLowerCase().includes(searchText.toLowerCase())
+  );
+
+  setSearchResults(results);
+};
+
 
   return (
     <div className="App">
