@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.712516ef.css",
-    "main.js": "/static/js/main.89a61e3d.js",
-    "static/js/787.35cb9840.chunk.js": "/static/js/787.35cb9840.chunk.js",
-    "index.html": "/index.html",
-    "main.712516ef.css.map": "/static/css/main.712516ef.css.map",
-    "main.89a61e3d.js.map": "/static/js/main.89a61e3d.js.map",
-    "787.35cb9840.chunk.js.map": "/static/js/787.35cb9840.chunk.js.map"
+    "main.css": "/Eliaschaaya97/textsearch.git/static/css/main.712516ef.css",
+    "main.js": "/Eliaschaaya97/textsearch.git/static/js/main.38cbaf0f.js",
+    "static/js/787.35cb9840.chunk.js": "/Eliaschaaya97/textsearch.git/static/js/787.35cb9840.chunk.js",
+    "index.html": "/Eliaschaaya97/textsearch.git/index.html",
+    "main.712516ef.css.map": "/Eliaschaaya97/textsearch.git/static/css/main.712516ef.css.map",
+    "main.38cbaf0f.js.map": "/Eliaschaaya97/textsearch.git/static/js/main.38cbaf0f.js.map",
+    "787.35cb9840.chunk.js.map": "/Eliaschaaya97/textsearch.git/static/js/787.35cb9840.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.712516ef.css",
-    "static/js/main.89a61e3d.js"
+    "static/js/main.38cbaf0f.js"
   ]
 }
