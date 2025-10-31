@@ -195,7 +195,6 @@
   color: white;
 }
 
-/* Main search area grows to fill */
 .search-main {
   flex: 1;
   display: flex;
